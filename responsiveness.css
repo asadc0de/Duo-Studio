@@ -1,0 +1,153 @@
+@media screen and (max-width: 655px) {
+    .nav_part2 {
+        display: none;
+    }
+
+    .section1-inner {
+        margin-top: 32vw;
+    }
+
+    .page_description {
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+
+    .page_2_left {
+        width: 50%;
+        font-size: 5vw;
+        line-height: 5vw;
+    }
+
+    .page_2_right {
+        width: 80%;
+    }
+
+    .page_2_right p {
+        font-size: 3.5vw;
+    }
+
+    .page_3_description {
+        flex-direction: column;
+    }
+
+    .page_3_description img {
+        width: 55vw;
+        margin-top: 80px;
+    }
+
+    .page_3_description .bottom {
+        width: 65vw;
+        height: 100%;
+        margin-top: 0px;
+    }
+
+    .text_video {
+        justify-content: center;
+    }
+
+    .video_des_1 {
+        align-self: center;
+    }
+    .page_4>p {
+        font-size: 3vw;
+        margin-top: 80px;
+    }
+
+    .text {
+        height: 13vw;
+    }
+    .text_img,.text_video {
+        margin-top: 18px;
+    }
+    .text h1 {
+        font-size: 13vw;
+    }
+
+    .page_4>.elem:first-child {
+        margin-top: 80px;
+    }
+
+    .elem img {
+        width: 145px;
+    }
+
+    .page_4 {
+        min-height: 90vh;
+    }
+
+    .page_5_inside>.row {
+        padding: 5vw 0.3vw;
+        border-bottom: 1px solid #fff;
+    }
+
+    .page_5_inside .row:first-child {
+        margin-bottom: 50px;
+    }
+
+    .row>p {
+        font-size: 3vw;
+    }
+
+    .row>h4 {
+        font-size: 4.5vw;
+    }
+
+    .page_5 {
+        padding-top: 17vw;
+    }
+    .page_3_description .top{
+        padding-bottom: 0;
+    }
+    .top>.circle {
+        width: 90px;
+        height: 90px;
+    }
+
+    .top>.circle p {
+        transform: translateX(20%);
+    }
+
+    .bottom {
+        padding-top: 22vw;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .bottom>.bottom_description {
+        width: 90vw;
+    }
+
+    .bottom>.bottom_description h4 {
+        font-size: 5.7vw;
+    }
+
+    .bottom>.bottom_description input {
+        width: 260px;
+        font-size: 3.2vw;
+        margin-top: 9.5vw;
+    }
+
+    .bottom>.bottom_description button {
+        width: 21vw;
+        height: 6vw;
+        font-size: 3vw;
+        left: 5vw;
+        position: relative;
+    }
+
+    .bottom>.bottom_description p {
+        margin-top: 10vw;
+    }
+
+    .bottom>h1 {
+        font-size: 2.7vw;
+        font-weight: 400;
+        margin-top: 3vw;
+    }
+
+    footer {
+        padding-top: 20vw;
+        min-height: 100vh;
+    }
+}
