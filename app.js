@@ -383,8 +383,8 @@ function hero_anime() {
         scroller: "main",
         // markers: true,
         start: `top ${initialstart2}`,
-        end: "top -300%",
-        scrub: .5,
+        end: "top -80%",
+        scrub: 3,
       },
     });
 
