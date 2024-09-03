@@ -1,4 +1,4 @@
-# Duo-Studio-Clone
+# Duo-Studio
  Developed a 🕸 responsive web application Clone inspired by Duo-Studio, showcasing a deep passion for web design and development.
 
 🛠️ Tech Stack:
